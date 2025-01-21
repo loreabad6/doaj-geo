@@ -2,7 +2,7 @@
 
 *Subjects:* Geoinformatics, Remote Sensing, Geomorphology, Spatial Data Science, Earth Science, Software Development
 
-This is a list for my internal use to help me find diamond OA alternatives to publish articles from my PhD. 
+This is a list for my use to help me find diamond OA alternatives to publish my PhD articles.
 It may be useful for you too!
 
 This is by no means exhaustive, any other suggestions are welcome via PR!
