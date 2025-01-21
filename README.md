@@ -33,6 +33,7 @@ This is by no means exhaustive, any other suggestions are welcome via PR!
 | [ARC Geophysical Research](https://janeway.uncpress.org/ARC-GR/)                           |                                                                                                      |
 | [Discover Geoscience](https://link.springer.com/journal/44288/)                            | Covered by Springer Nature until 31 December 2025                                                    |
 | [Comptes Rendus: Geoscience](https://comptes-rendus.academie-sciences.fr/geoscience/)      |                                                                                                      |
+| [Geoscience Frontiers](https://www.sciencedirect.com/journal/geoscience-frontiers)         | Covered by China University of Geosciences and Peking University until 31 December 2025.             |
 
 ## DRR
 
