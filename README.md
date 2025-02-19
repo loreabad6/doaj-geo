@@ -26,6 +26,15 @@ This is by no means exhaustive, any other suggestions are welcome via PR!
 | **Journal**                                                                                | **Comment**                                                                                          |
 |--------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|
 | [Geomorphica](https://sites.google.com/view/geomorphica)                                   |                                                                                                      |
+| [Volcanica](https://www.jvolcanica.org/ojs/index.php/volcanica)                            |                                                                                                      |
+| [Tektonika](https://tektonika.online/index.php/home)                                       |                                                                                                      |
+| [Seismica](https://seismica.library.mcgill.ca/index)                                       |                                                                                                      |
+| [Sedimentologika](https://oap.unige.ch/journals/sdk/)                                      |                                                                                                      |
+| [Geodynamica](https://www.geodynamica.org/)                                                |                                                                                                      |
+| [Advances in Geochemistry and Cosmochemistry (AGC)](https://www.agcj.org/)                 |                                                                                                      |
+| [Geophysical Research](https://janeway.uncpress.org/ARC-GR/)                               |                                                                                                      |
+| [The Sedimentary Record](https://thesedimentaryrecord.scholasticahq.com/)                  |                                                                                                      |
+| [Journal of Hydraulic Structures (JCHS)](https://journals.open.tudelft.nl/jchs)            |                                                                                                      |
 | [Journal of Environmental Statistics](http://www.jenvstat.org/)                            | Only publishes special issues, don't know how to find them                                           |
 | [European Geologist Journal](https://eurogeologists.eu/journal/)                           |                                                                                                      |
 | [Norwegian Journal of Geology](https://njg.geologi.no/)                                    | Focus on Scandinavia, and the North Atlantic, Arctic, and Antarctic regions                          |
@@ -41,6 +50,7 @@ This is by no means exhaustive, any other suggestions are welcome via PR!
 |--------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|
 | [International Journal of Disaster Risk Science](https://link.springer.com/journal/13753/) |                                                                                                      |
 | [Journal of Catastrophe Risk and Resilience](https://journalofcrr.com/research/)           |                                                                                                      |
+| [Journal of Coastal and Riverine Flood Risk (JCRFR)](https://journals.open.tudelft.nl/jcrfr) |                                                                                                    |
 
 ## Urban studies
 
