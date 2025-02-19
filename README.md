@@ -13,6 +13,7 @@ This is by no means exhaustive, any other suggestions are welcome via PR!
 |--------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|
 | [JOSIS](https://josis.org/index.php/josis/index)                                           |                                                                                                      |
 | [Journal of Remote Sensing](https://spj.science.org/journal/remotesensing)                 | Financed by  Aerospace Information Research Institute, Chinese Academy of Sciences until 1 July 2025 |
+| [International Journal of Spatial Data Infrastructures Research](https://ijsdir.sadl.kuleuven.be/index.php/ijsdir/index) |                                                                        |
 
 ## Software
 
