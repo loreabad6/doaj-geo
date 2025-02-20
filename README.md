@@ -58,6 +58,7 @@ This is by no means exhaustive, any other suggestions are welcome via PR!
 | **Journal**                                                                                | **Comment**                                                                                          |
 |--------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|
 | [Computational Urban Science](https://link.springer.com/journal/43762/)                    |  APC covered by the Jiangxi Normal University                                                        |
+| [Miscellanea Geographica - Regional Studies on Development](https://sciendo.com/journal/MGRSD) |                                                                                                  |
 
 ## General
 
